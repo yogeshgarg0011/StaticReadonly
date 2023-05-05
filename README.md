@@ -1,0 +1,2 @@
+# StaticReadonly
+Static Readonly
